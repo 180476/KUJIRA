@@ -2,9 +2,9 @@
 
 /* すべてのWebページに適用される */
 body {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: #A6DB9D;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -57,25 +57,25 @@ img {
 	padding-right: 30px;
 }
 #nav {
-	margin: 0 0 0 0;
-	padding: 15px 30px 10px 30px;
-	background-image: url(../images/menu-bg.png);
+    margin: 0 0 0 0;
+    padding: 15px 30px 10px 30px;
+    background-image: url(../images/images.jpg);
 }
 #nav li a:link {
-	color: #f5f3eb;
-	text-decoration: none;
+    color: #FFCC00;
+    text-decoration: none;
 }
 #nav li a:visited {
-	color: #f5f3eb;
-	text-decoration: none;
+    color: #FFCC00;
+    text-decoration: none;
 }
 #nav li a:hover {
-	color: #e4dbb9;
-	text-decoration: none;
+    color: #B9C8E4;
+    text-decoration: none;
 }
 #nav li a:active {
-	color: #ffffff;
-	text-decoration: none;
+    color: #2644F1;
+    text-decoration: none;
 }
 
 /* すべてのページに適用 - footer - */
