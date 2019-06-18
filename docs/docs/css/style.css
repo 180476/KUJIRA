@@ -32,13 +32,13 @@ a:link {
 	color:#6aa4d6;
 }
 a:visited {
-	color:#6aa4d6;
+    color: #FF008E;
 }
 a:hover {
-	color: #4f7697;
+    color: #6AA4D6;
 }
 a:active {
-	color: #aed3f2;
+    color: #5E91BD;
 }
 h1 {
 	margin: 30px 0 30px 0;
@@ -71,6 +71,10 @@ img {
 }
 #nav li a:hover {
     color: #B9C8E4;
+    text-decoration: none;
+}
+#nav_spe li a:hover {
+    color: #4BFF27;
     text-decoration: none;
 }
 #nav li a:active {
